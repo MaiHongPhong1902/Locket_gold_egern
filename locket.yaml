@@ -19,7 +19,7 @@ header_rewrites:
 
 scriptings:
 - http_response:
-    name: Locket_Gold_AQVPN
+    name: Locket_Gold_Hydra
     match: ^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$)
     script_url: https://raw.githubusercontent.com/MaiHongPhong1902/Locket_gold_egern/refs/heads/main/Locket_Gold.js
     body_required: true
