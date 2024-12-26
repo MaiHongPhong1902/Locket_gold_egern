@@ -20,7 +20,7 @@ let jsonToUpdate = {
             "entitlement": {},
             "first_seen": "2002-10-20T01:01:01Z",
             "original_application_version": "1.94.0",
-            "last_seen": "2022-04-03T01:01:01Z",
+            "last_seen": "2002-10-20T01:01:01Z",
             "other_purchases": {},
             "management_url": null,
             "subscriptions": {},
